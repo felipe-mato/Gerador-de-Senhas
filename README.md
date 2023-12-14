@@ -1,13 +1,31 @@
-O que é?
-Gerador de Senhas Aleatórias.
+# Gerador de Senhas Aleatórias
 
-Usa: nanoid.
+## Descrição
+Este é um simples Gerador de Senhas Aleatórias que utiliza a biblioteca [nanoid](https://github.com/ai/nanoid) para criar sequências de caracteres aleatórias. A aplicação é básica, consistindo em uma única página com as linguagens HTML, CSS e JavaScript.
 
-Como usar:
-Baixe o repositório na sua máquina
-Na pásta raiz (mesma que contém o arquivo package.json) execute o comando npm i para instalar as dependencias
-Execute o comando npm run dev para executar a aplicação
-No seu navegador acessa a porta onde a aplicação esta sendo executada (por padão: http://localhost:5173/)
+## Como Usar
+1. Baixe o repositório em sua máquina.
+2. Na pasta raiz (onde está localizado o arquivo `package.json`), execute o comando `npm install` para instalar as dependências.
+3. Execute o comando `npm run dev` para iniciar a aplicação.
+4. No seu navegador, acesse a porta onde a aplicação está sendo executada (por padrão: [http://localhost:5173/](http://localhost:5173/)).
 
-Ao clickar no botão "Gerar Senha Segura" uma squência de 12 caractéres aleatórios é gerada e exibida no campo abaixo
-Ao clickar na senha ela é automaticamente copiada e é exibido uma mensagem na tela
+Ao clicar no botão "Gerar Senha Segura", uma sequência de 12 caracteres aleatórios será gerada e exibida no campo abaixo. Ao clicar na senha, ela será automaticamente copiada, e uma mensagem será exibida na tela.
+
+## Tecnologias Utilizadas
+- HTML
+- CSS
+- JavaScript
+
+## Estrutura do Projeto
+- `index.html`: Página principal da aplicação.
+- `style.css`: Estilos para a interface.
+- `script.js`: Lógica de geração de senhas usando o nanoid.
+
+## Contribuição
+Contribuições e sugestões são sempre bem-vindas! Sinta-se à vontade para enviar um pull request com melhorias, correções de bugs ou novas funcionalidades.
+
+## Contato
+- Email: [seu-email@gmail.com](mailto:seu-email@gmail.com)
+- LinkedIn: [Seu Nome](https://www.linkedin.com/in/seu-nome/)
+
+Obrigado por visitar este repositório!
