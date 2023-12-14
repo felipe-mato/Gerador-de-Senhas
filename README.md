@@ -25,7 +25,7 @@ Ao clicar no botão "Gerar Senha Segura", uma sequência de 12 caracteres aleat�
 Contribuições e sugestões são sempre bem-vindas! Sinta-se à vontade para enviar um pull request com melhorias, correções de bugs ou novas funcionalidades.
 
 ## Contato
-- Email: [seu-email@gmail.com](mailto:seu-email@gmail.com)
-- LinkedIn: [Seu Nome](https://www.linkedin.com/in/seu-nome/)
+- Email: [felipe.mbarbosa.dev@gmail.com](mailto:felipe.mbarbosa.dev@gmail.com)
+- LinkedIn: [Felipe Matos](https://www.linkedin.com/in/felipe-matos-vqv/)
 
 Obrigado por visitar este repositório!
