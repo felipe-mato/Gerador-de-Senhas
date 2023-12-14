@@ -1,0 +1,21 @@
+{
+  "name": "12.geradorsenhas",
+  "version": "1.0.0",
+  "description": "Gerador de senhas fortes aleatórias",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^3.1.8"
+  },
+  "dependencies": {
+    "clipboard-copy": "^4.0.1",
+    "nanoid": "^4.0.0"
+  },
+  "author": "Felipe Matos",
+  "license": "ISC"
+}

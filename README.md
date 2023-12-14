@@ -1,2 +1,4 @@
-# Gerador-de-Senhas
-Gerador de senhas fortes aleatórias
+O que é?
+Gerador de Senhas Aleatórias.
+
+Usa: nanoid.
